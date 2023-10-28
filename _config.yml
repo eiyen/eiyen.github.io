@@ -90,9 +90,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: eiyen/eiyen.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOKl_jWA
+    repo_id: R_kgDOKmIaRA
     category: Comments
-    category_id: DIC_kwDOKl_jWM4CagdG
+    category_id: DIC_kwDOKmIaRM4Cagmt
     mapping: pathname # optional, default to 'pathname'
     input_position: bottom # optional, default to 'bottom'
     lang: zh-CN # optional, default to the value of `site.lang`
