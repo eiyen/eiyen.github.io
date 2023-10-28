@@ -1,6 +1,6 @@
 ---
 title: DEX 综述：DEX 的价值、算法、经济模型和发展趋势【Builder DAO 投研系列第二课笔记】
-categories: "[DeFi, DEX]"
+categories: [DeFi, DEX]
 tags:
   - 投研
   - BuidlerDAO
