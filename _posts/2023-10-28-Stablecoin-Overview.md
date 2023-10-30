@@ -50,7 +50,7 @@ mermaid: true
 _法币稳定币的市场占有率 2023年10月（数据来源：[DeFiLlama](https://defillama.com/stablecoins?backing=FIATSTABLES)）_
 
 
-![](法币稳定币资金流向.png){: w="600"}
+![](/法币稳定币资金流向.png){: w="600"}
 _法币稳定币的资金流向（图片来源：[RedStone Oracle](https://redstone.finance/)）_
 
 
