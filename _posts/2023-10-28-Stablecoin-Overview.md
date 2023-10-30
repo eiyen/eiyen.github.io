@@ -6,6 +6,7 @@ tags:
   - 投研
 pin: "true"
 img_path: /assets/img/
+mermaid: true
 ---
 
 ## 一、稳定币概述
@@ -48,8 +49,14 @@ img_path: /assets/img/
 ![](/法币稳定币的市场占有率.png){: w="450"}
 _法币稳定币的市场占有率 2023年10月（数据来源：[DeFiLlama](https://defillama.com/stablecoins?backing=FIATSTABLES)）_
 
+
+![](法币稳定币资金流向.png){: w="600"}
+_法币稳定币的资金流向（图片来源：[RedStone Oracle](https://redstone.finance/)）_
+
+
+
 ## 参考资料
 
 1. 视频：[Buidler DAO 投研第三课](https://drive.google.com/file/d/1T3yASY6B3Lv8LgDgUPR6y2Wiybd8CmTy/view)
-2. 研报：[Stablecoins Report: The Ultimate 2023 Market Overview](https://redstone.finance/reports/stablecoins-report.pdf)
+2. 研报：[Stablecoins Report: The Ultimate 2023 Market Overview](https://eiyen.github.io/assets/pdf/stablecoins-report.pdf)
 3. 文章：[深度长文丨解析全球稳定币2023现状与监管](https://mp.weixin.qq.com/s/fLmfA_OGbduQYZ0zGAqiZA)
