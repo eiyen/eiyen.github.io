@@ -6,6 +6,7 @@ tags:
   - 投研
 pin: "true"
 img_path: /assets/img/
+image: /stablecoin-cover.png
 mermaid: true
 ---
 
