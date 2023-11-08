@@ -7,7 +7,7 @@ tags:
 pin: "true"
 img_path: /assets/img/
 mermaid: "true"
-image:
+image: Liquid-Staking.png
 ---
 ## LSD 概述
 
